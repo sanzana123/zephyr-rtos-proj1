@@ -1,0 +1,10 @@
+=== updating zephyr (deps/zephyr):
+HEAD is now at 413b789deb3 release: Zephyr v4.2.0
+=== updating cmsis_6 (deps/modules/hal/cmsis_6):
+HEAD is now at 06d952b6 IAR LDR{,B,H}T fix (#242)
+=== updating hal_nordic (deps/modules/hal/nordic):
+HEAD is now at 9587b1d nrfx: cracen: align to nrf54lm20a
+=== updating hal_nxp (deps/modules/hal/nxp):
+HEAD is now at 7a52cbb7c s32: s32ze: patch PSI5 for integration with zephyr
+=== updating hal_stm32 (deps/modules/hal/stm32):
+HEAD is now at 1e753266 license: Update Synopsys license terms in the license file and code
