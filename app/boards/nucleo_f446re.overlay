@@ -11,6 +11,6 @@
     };
 
     aliases {
-        green-led = &green_led;
+        led0 = &green_led;
     };
 };
