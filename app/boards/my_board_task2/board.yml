@@ -1,0 +1,6 @@
+board:
+  name: my_board_task2
+  full_name: My board from scratch method
+  vendor: iomico
+  socs:
+    - name: stm32f446xx
