@@ -1,0 +1,22 @@
+identifier: my_board_task1
+name: MY BOARD TASK1
+type: mcu
+arch: arm
+vendor: st
+socs:
+  - name: stm32f446xx
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - arduino_gpio
+  - arduino_i2c
+  - arduino_spi
+  - counter
+  - gpio
+  - spi
+  - i2c
+  - can
+  - backup_sram
+ram: 128
+flash: 512
